@@ -27,6 +27,6 @@ In Schoology we shared ideas about the direction of the individual projects. Her
 
 This is where the projects currently are:
 
-<https://github.com/DanDC25/GenerativeArt_Project_Sharing/blob/main/Screen%20Shot%202022-12-13%20at%2013.11.06.png" width="24%"> <img src="docs/2022-12-01_dongjae.png" width="24%"> <img src="docs/2022-12-01_khang.png" width="24%"> <img src="docs/2022-12-01_william.png" width="24%">
+<img src="https://github.com/DanDC25/GenerativeArt_Project_Sharing/blob/main/Screen%20Shot%202022-12-13%20at%2013.11.06.png" width="24%"> <img src="docs/2022-12-01_dongjae.png" width="24%"> <img src="docs/2022-12-01_khang.png" width="24%"> <img src="docs/2022-12-01_william.png" width="24%">
 
 
